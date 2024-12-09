@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/DevMarquesx/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Rytchelle/count.svg?"  />
 </div>
 
 ###
@@ -63,7 +63,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DevMarquesx/DevMarquesx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Rytchelle/Rytchelle/output/snake.svg" alt="Snake animation" />
 
 ###
 
