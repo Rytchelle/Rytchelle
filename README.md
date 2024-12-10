@@ -9,28 +9,29 @@
 <p align="left"> 
  Olá, sou Kauã Rytchelle, tenho 17 anos. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro Paulo Ernesto Tolle.<br>
   
-  Desenvolvedor <strong>frontend</strong> com experiência nas seguintes Linguagens:
-<div align="left" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  Desenvolvedor <strong>frontend</strong> com experiência nas seguintes Linguagens: <br><br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="10" 3
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-</div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
+  <img width="10" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
+</div> <br>
+
 </p>
 
 <p align="left">
@@ -63,14 +64,13 @@ Seja para trocar ideias, trabalhar em projetos ou colaborar em algo interessante
  <br><br><br>  
 
 
-<div style= margin-top: "200px" align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1234-orange?style=for-the-badge&logo=github" alt="Profile Views Badge"  />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rytchelle/count.svg?" />
 </div>
  <br><br>
 <img src="https://raw.githubusercontent.com/Rytchelle/Rytchelle/output/snake.svg" alt="Snake animation" />
 
- <br>
-
+<br>
 <div align="center" margin = "50px">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rytchelle&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Killua's GitHub Stats" /> 
 
@@ -90,7 +90,13 @@ Seja para trocar ideias, trabalhar em projetos ou colaborar em algo interessante
 </p>
 
 <p >
-<img align="" height="70" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
+
+ 
+<img align="center" height="70" src="https://media.giphy.com/media/l3vRfiI9gcsJj9UEc/giphy.gif" />
+
+
+
+
  
 </p>
 </div>
