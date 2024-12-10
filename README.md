@@ -60,10 +60,16 @@ Seja para trocar ideias, trabalhar em projetos ou colaborar em algo interessante
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+ <br><br><br>  
 
 
+<div style= margin-top: "200px" align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-1234-orange?style=for-the-badge&logo=github" alt="Profile Views Badge"  />
+</div>
+ <br><br>
+<img src="https://raw.githubusercontent.com/Rytchelle/Rytchelle/output/snake.svg" alt="Snake animation" />
 
-
+ <br>
 
 <div align="center" margin = "50px">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Rytchelle&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Killua's GitHub Stats" /> 
@@ -72,11 +78,6 @@ Seja para trocar ideias, trabalhar em projetos ou colaborar em algo interessante
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rytchelle&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<img src="https://raw.githubusercontent.com/Rytchelle/Rytchelle/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-1234-orange?style=for-the-badge&logo=github" alt="Profile Views Badge"  />
-</div>
 <br clear="both">
 
 
