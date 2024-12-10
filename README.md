@@ -7,12 +7,9 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
-
-<p align="left">
-  🐱‍👤 Linguagens 👇
+ Olá, sou Kauã Rytchelle, tenho 17 anos. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro Paulo Ernesto Tolle.<br>
+  
+  Desenvolvedor <strong>frontend</strong> com experiência nas seguintes Linguagens  🐱‍👤:
 <div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="10" />
@@ -34,6 +31,10 @@
   <img width="10" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
 </div>
+</p>
+
+<p align="left">
+
 
 
 
@@ -42,7 +43,9 @@
   
 </p>
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+ Estou em busca de novos desafios que me permitam aplicar e expandir meus conhecimentos, contribuindo para projetos inovadores e fortalecendo minhas habilidades como desenvolvedor. 🚀
+
+Seja para trocar ideias, trabalhar em projetos ou colaborar em algo interessante, estarei por aqui! 😊
 </p>
 
 <p align="left">
@@ -70,6 +73,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rytchelle&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<img align="right" height="100" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-1234-orange?style=for-the-badge&logo=github" alt="Profile Views Badge"  />
@@ -142,7 +146,6 @@
 
 
 
-<img align="right" height="100" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
 
 ###
 
