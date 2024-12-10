@@ -9,7 +9,7 @@
 <p align="left"> 
  Olá, sou Kauã Rytchelle, tenho 17 anos. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro Paulo Ernesto Tolle.<br>
   
-  Desenvolvedor <strong>frontend</strong> com experiência nas seguintes Linguagens  🐱‍👤:
+  Desenvolvedor <strong>frontend</strong> com experiência nas seguintes Linguagens:
 <div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="10" />
@@ -73,21 +73,27 @@ Seja para trocar ideias, trabalhar em projetos ou colaborar em algo interessante
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rytchelle&layout=compact&hide_border=true&title_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<img align="right" height="100" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
 
 <div align="center">
   <img src="https://img.shields.io/badge/Profile%20Views-1234-orange?style=for-the-badge&logo=github" alt="Profile Views Badge"  />
 </div>
 <br clear="both">
 
-<p align="center">
+
+<div aling = center>
+ 
+<p >
   <img src="https://github-profile-trophy.vercel.app/?username=Rytchelle&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+ 
+
 </p>
 
-<div align="center">  
-  
-
+<p >
+<img align="right" height="100" src="https://media.tenor.com/SecZG4u1gSYAAAAi/bulbasaur-pokemon.gif"  />
+ 
+</p>
 </div>
+
 
 ---
 
