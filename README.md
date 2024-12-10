@@ -9,7 +9,7 @@
 <p align="left"> 
  Olá, sou Kauã Rytchelle, tenho 17 anos. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro Paulo Ernesto Tolle.<br>
   
-  Desenvolvedor <strong>frontend</strong> com experiência nas seguintes Linguagens: <br><br>
+  Desenvolvedor <strong>frontend</strong> com experiência em: <br><br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="10" />
