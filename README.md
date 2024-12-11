@@ -29,7 +29,10 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" /> <br>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo" />
+  <img width="10" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+ <br>
  <br>
  Entre outros...
 </div> 
