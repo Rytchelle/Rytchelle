@@ -55,7 +55,7 @@ Seja para trocar ideias, trabalhar em projetos ou colaborar em algo interessante
 </p>
 
 <p align="left">
-  <a href="mailto:Ratkarb12@gmail.com?subject=Ola&body=Texto do corpo do e-mai" title="Gmail">
+  <a href="mailto:Ratkarb12@gmail.com?subject=Ola&body=ola" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/kaua-rytchelle-023014331/" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
