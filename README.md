@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
- Olá, sou Kauã Rytchelle, tenho 17 anos. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI Suíço-Brasileiro Paulo Ernesto Tolle.<br>
+FUCK YOU <br>
   
   Desenvolvedor <strong>frontend</strong> com experiência em: <br><br>
 <div align="left">
